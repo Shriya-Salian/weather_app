@@ -1,4 +1,4 @@
-# Weather_App
+# 🌤️Weather_App
 
 ## Installations:
 - In terminal copy & paste:
@@ -14,5 +14,8 @@
 - https://openweathermap.org/api
 - SignUp/login
 - Profile > My API KEY > Create Key(name it) > Generate > Copy it
-- Create .env file on the root directory where .gitignore is present `VITE_API_KEY= "paste ur api key here"`
-- add .env to .gitignore 
+- Create .env file on the root directory(i.e weather_app) > `VITE_API_KEY= "paste ur api key here"`
+- add .env to .gitignore
+
+U r good to go 
+Happy Coding 👨‍💻👩‍💻
