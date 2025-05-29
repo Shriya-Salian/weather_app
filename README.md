@@ -16,7 +16,7 @@ A simple weather application built with Vite+React that fetches and displays cur
   -Additional libraries installation
     -  `npm install @radix-ui/react-slot class-variance-authority clsx lucide-react react react-dom`
 
-## Creating Weather API Key:
+## 🔐 Creating Weather API Key:
 - Go to: https://openweathermap.org/api
 - SignUp/login
 - Navigate to: Profile > My API KEY > Create Key(name it) > Generate > Copy it
