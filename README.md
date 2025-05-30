@@ -13,7 +13,7 @@ A simple weather application built with Vite+React that fetches and displays cur
   -  `npm run dev`
       - 👆 to run the script
       -  then ctrl+click http://localhost:5173/
-  -Additional libraries installation
+  - Additional libraries installation
     -  `npm install @radix-ui/react-slot class-variance-authority clsx lucide-react react react-dom`
 
 ## 🔐 Creating Weather API Key:
